@@ -1,8 +1,6 @@
-
-# AI-Marketing-Lab-GenerativeAI-Recommendation
-Generative AI Content Creation and Recommendation Engine using Python
 # Generative AI and Recommendation Engine
-
+Generative AI Content Creation and Recommendation Engine using Python
+# AI-Marketing-Lab-GenerativeAI-Recommendation
 ## Overview
 
 This project demonstrates two important AI applications in marketing:
